@@ -35,5 +35,3 @@ O projeto segue os seguintes passos:
 
 ---
 
-## 📂 Estrutura do repositório
-
